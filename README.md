@@ -58,8 +58,10 @@ print(list_of_nums)
 
 ## Output:
 i)	#Selection Sort
+![alt text](<Screenshot 2024-05-11 204526.png>)
 
 ii)	#Insertion Sort
+![alt text](<Screenshot 2024-05-11 204541.png>)
 
 
 ## Result:
